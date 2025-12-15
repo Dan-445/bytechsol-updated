@@ -1,7 +1,5 @@
 
-  # Modern 3D Website Design
 
-  This is a code bundle for Modern 3D Website Design. The original project is available at https://www.figma.com/design/0qfDsbwc3rLccmQ31GOGD5/Modern-3D-Website-Design.
 
   ## Running the code
 
